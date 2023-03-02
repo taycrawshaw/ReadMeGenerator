@@ -44,9 +44,9 @@ _____________________
 
 🙋 Questions 
 
-For any questions or suggestions please contact me at ${email}
+For any questions or suggestions please contact me at ${data.userEmail}
 
-Github: ${gitUser}
+Github: ${data.gitUser}
 
 
 

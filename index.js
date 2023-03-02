@@ -28,6 +28,12 @@ const questions = [
         message: 'How do you use your application?',
         name: 'usage',
                     },
+               {
+        type: 'list', 
+        message: 'What is the license for this project?',
+        choices: ['MIT', 'Apache 2.0', 'GPL', 'BSD'],
+        name: 'license'
+                    },
                     {
         type: 'input', 
         message: 'Please enter the guidelines for contributing towards the project',
@@ -46,7 +52,7 @@ const questions = [
        {            
         type: 'input', 
         message: 'what is your email address?',
-        name: 'email',
+        name: 'userEmail',
                             }
 ];
  
@@ -65,9 +71,6 @@ function init() {
     
  fs.writeFile('README.md', newReadMe, (error) => error ? console.error(error) : console.log('Success!'));
 
-  
-
-   
     });
 
 
