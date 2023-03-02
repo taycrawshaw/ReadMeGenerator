@@ -21,7 +21,7 @@ const questions = [
             { 
         type: 'input', 
         message: 'Please enter the Instuctions for Installation',
-        name: 'instructions',
+        name: 'installation',
             },
             {
         type: 'input', 
@@ -31,7 +31,7 @@ const questions = [
                     {
         type: 'input', 
         message: 'Please enter the guidelines for contributing towards the project',
-        name: 'license',
+        name: 'contribute',
                             },
             {
         type: 'input', 
@@ -57,10 +57,17 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
    
+
    
     inquirer.prompt(questions)
-    .then((response) => {console.log(response);
-    fs.writeFile('README.md', response.title, (error) => error ? console.error(error) : console.log('Success!'))
+    .then((response) => {
+        const newReadMe = generateMarkdown(response);
+    
+ fs.writeFile('README.md', newReadMe, (error) => error ? console.error(error) : console.log('Success!'));
+
+  
+
+   
     });
 
 
