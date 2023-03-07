@@ -1,32 +1,32 @@
  
-## adsad
+## README Generator
 
 📖 Description
 
-asdasda
+This is a command line application to generate professional README.md files via Node.js. Once running, the user is prompted a series of questions which is then used to populate the template as required. 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 _____________________
 
 ### 📋 Table of Contents
 
-- [Installation](#-💽-instructions-for-installation)
-- [Usage](#usage-guide) 
-- [Contributions](#contribution-guidelines) 
-- [Tests](#tests)
-- [Questions](#questions)
+- [Installation](#💽-instructions-for-installation)
+- [Usage](#➡️-usage-guide) 
+- [Contributions](#🤚-contribution-guidelines) 
+- [Tests](#🧪-tests)
+- [Questions](#🙋-questions)
 
 _____________________
 
 ### 💽 Instructions for Installation 
 
-asdasd
+Run the Index.js file via terminal command 'node index.js' and then follow the terminal prompts.
 
 _____________________
 
 ### ➡️ Usage Guide 
 
-asdasd
+Input the project information to the terminal to generate a readme.md file via Node. This will contain title, desciption, instructions, usage guide, license type, contributions, testing, as well as GitHub and email links.
 
 _____________________
 
@@ -38,15 +38,15 @@ _____________________
 
 ### 🧪 Tests
 
-adsa
+Testing has been done during and following development. 
 
 _____________________
 
 ### 🙋 Questions 
 
-For any questions or suggestions please contact me at mat_c@email.com
+For any questions or suggestions please contact me at mat_crawshaw@hotmail.com
 
-Github: asda
+Github: matcrawshaw (https://github.com/matcrawshaw)
 
 
 
