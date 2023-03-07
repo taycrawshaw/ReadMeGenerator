@@ -32,7 +32,7 @@ _____________________
 
 ### 🤚 Contribution Guidelines 
 
-undefined
+If you'd like to contribute please clone the repo, and submit pull requests as needed. 
 
 _____________________
 
