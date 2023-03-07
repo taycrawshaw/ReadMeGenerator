@@ -53,6 +53,13 @@ const questions = [
         type: 'input', 
         message: 'what is your email address?',
         name: 'userEmail',
+        validate: response => {
+            const ok = response.match(
+                /\S+@\S+\.\S+/ );
+              if (ok) { return true;}
+        return"enter a valid email address.";
+    
+        }
                             }
 ];
  
@@ -78,13 +85,6 @@ function init() {
 
 
 }
-
-
-
-
-
-
-
 
 
 
