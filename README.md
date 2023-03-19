@@ -1,11 +1,11 @@
  
-## README Generator
+## example title
 
 📖 Description
 
-This is a command line application to generate professional README.md files via Node.js. Once running, the user is prompted a series of questions which is then used to populate the template as required. 
+description
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 _____________________
 
 ### 📋 Table of Contents
@@ -20,33 +20,33 @@ _____________________
 
 ### 💽 Instructions for Installation 
 
-Run the Index.js file via terminal command 'node index.js' and then follow the terminal prompts.
+input instructions here
 
 _____________________
 
 ### ➡️ Usage Guide 
 
-Input the project information to the terminal to generate a readme.md file via Node. This will contain title, desciption, instructions, usage guide, license type, contributions, testing, as well as GitHub and email links.
+usage here
 
 _____________________
 
 ### 🤚 Contribution Guidelines 
 
-If you'd like to contribute please clone the repo, and submit pull requests as needed. 
+undefined
 
 _____________________
 
 ### 🧪 Tests
 
-Testing has been done during and following development. 
+testing
 
 _____________________
 
 ### 🙋 Questions 
 
-For any questions or suggestions please contact me at mat_crawshaw@hotmail.com
+For any questions or suggestions please contact me at email@email.com
 
-Github: matcrawshaw (https://github.com/matcrawshaw)
+Github: git username
 
 
 
