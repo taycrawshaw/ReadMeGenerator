@@ -43,11 +43,11 @@ _____________________
 
 ### 📋 Table of Contents
 
-- [Installation](#💽-instructions-for-installation)
-- [Usage](#➡️-usage-guide) 
-- [Contributions](#🤚-contribution-guidelines) 
-- [Tests](#🧪-tests)
-- [Questions](#🙋-questions)
+- [Installation](#-instructions-for-installation)
+- [Usage](#-usage-guide) 
+- [Contributions](#-contribution-guidelines) 
+- [Tests](#-tests)
+- [Questions](#-questions)
 
 _____________________
 
