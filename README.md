@@ -6,6 +6,9 @@
 
 This is a command line application to generate professional README.md files via Node.js. Once running, the user is prompted a series of questions which is then used to populate the template as required. 
 
+![image](https://user-images.githubusercontent.com/119896882/226229852-63e90f2c-2a38-4f1b-82f8-7176636f5b8e.png)
+
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 _____________________
 
